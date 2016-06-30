@@ -43,7 +43,7 @@
     [itemArray addObject:item1];
     [itemArray addObject:item2];
     [itemArray addObject:item3];
-    [itemArray addObject:item5];
+    [itemArray addObject:item4];
     [itemArray addObject:item5];
     
     NSMutableString *textStrimg;
